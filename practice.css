@@ -1,0 +1,31 @@
+.root{
+	-fx-background-color:BurlyWood;
+}
+#l1,#l2,#l3,#l4{
+	-fx-font-family:"Times New Roman";
+	-fx-font-size:22px;
+	-fx-font-weight:bold;
+	-fx-text-fill:green;
+}
+#l5{
+	-fx-font-family:"Broadway";
+	-fx-font-size:32px;
+	-fx-font-weight:bold;
+	-fx-text-fill:red;
+}
+#tf1,#tf2{
+	-fx-text-fill:white;
+	-fx-background-color:black;
+	
+}
+#b1,#b2{
+	-fx-font-family:"Arial";
+	-fx-font-size:15px;
+	-fx-font-weight:bold;-fx-background-color:white;-fx-text-fill:black;
+}
+#r1,#r2,#r3,#r4,#r5,#r6{
+	-fx-text-fill:black;
+	-fx-font-family:"Arial";
+	-fx-font-size:16px;
+	-fx-font-weight:bold;
+}
